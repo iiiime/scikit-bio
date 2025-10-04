@@ -10,7 +10,7 @@
 # This implementation of ANCOM-BC is based on an analysis of the source code
 # from the R package ANCOMBC (https://github.com/FrederickHuangLin/ANCOMBC),
 # which is licensed under Artistic-2.0 (https://www.bioconductor.org/packages/
-# release/bioc/html/ANCOMBC.html). We thank Dr. Lin Huang (@FrederickHuangLin)
+# release/bioc/html/ANCOMBC.html). We thank Dr. Huang Lin (@FrederickHuangLin)
 # for his helpful advice.
 # ----------------------------------------------------------------------------
 
