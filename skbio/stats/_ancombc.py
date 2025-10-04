@@ -6,6 +6,14 @@
 # The full license is in the file LICENSE.txt, distributed with this software.
 # ----------------------------------------------------------------------------
 
+# ----------------------------------------------------------------------------
+# This implementation of ANCOM-BC is based on an analysis of the source code
+# from the R package ANCOMBC (https://github.com/FrederickHuangLin/ANCOMBC),
+# which is licensed under Artistic-2.0 (https://www.bioconductor.org/packages/
+# release/bioc/html/ANCOMBC.html). We thank Dr. Lin Huang (@FrederickHuangLin)
+# for his helpful advice.
+# ----------------------------------------------------------------------------
+
 import numpy as np
 import pandas as pd
 from scipy.stats import norm
